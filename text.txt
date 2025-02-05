@@ -1,0 +1,5 @@
+#text.txt is the most basic name of a file
+
+Hello world
+This is my first file
+Aziz Shave is sitting next to me in class right now
